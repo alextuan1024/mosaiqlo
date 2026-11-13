@@ -2,6 +2,16 @@
 
 A Fliqlo-inspired flip clock for ESP-Mosaico (ESP32-S31), with Gluqlo digits and a 480 × 480 AMOLED interface. Independent implementation; not affiliated with or endorsed by Fliqlo.
 
+## Gallery
+
+![mosaiqlo running on ESP-Mosaico](docs/images/mosaiqlo-device.png)
+
+Real-device photo at 14:11, AI-retouched to remove reflections and tighten the crop.
+
+![mosaiqlo simulator screenshot at 09:41](docs/images/mosaiqlo-0941.png)
+
+Actual 480 × 480 simulator screenshot at 09:41.
+
 ## Features
 
 - 24-hour Singapore time (UTC+8), with animated minute transitions.
