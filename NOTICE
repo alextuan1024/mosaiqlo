@@ -1,0 +1,20 @@
+mosaiqlo
+Copyright 2026 mosaiqlo contributors
+
+Application scaffolding and board integration are adapted from the Espressif
+ESP-Mosaico hello_world application template. The application has been modified
+to implement a flip clock, rotation, Wi-Fi settings, and brightness control.
+Existing Apache-2.0 source notices are retained.
+
+Gluqlo font and derived digit masks:
+Copyright (c) 2010-2012 Kuźniarski Jacek
+Copyright (c) 2014 Alexander Kovalenko
+See components/app_clock/ui/fonts/LICENSE-gluqlo.txt.
+
+DejaVu fonts include Bitstream Vera material:
+Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+DejaVu changes are in the public domain.
+See components/app_clock/ui/fonts/LICENSE.
+
+Fliqlo is credited for visual inspiration only. This project is independent
+and is not affiliated with or endorsed by Fliqlo or Espressif.
